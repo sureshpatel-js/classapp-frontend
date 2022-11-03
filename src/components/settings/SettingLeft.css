@@ -1,0 +1,7 @@
+.settingLeft {
+    height: 100%;
+    width: 20%;
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+}

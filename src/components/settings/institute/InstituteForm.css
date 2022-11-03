@@ -1,0 +1,13 @@
+.instituteForm {
+    border: 1px solid black;
+    width: 60%;
+    height: 220px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+.inputContainer{
+    width: 80%;
+}

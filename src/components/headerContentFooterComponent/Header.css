@@ -1,0 +1,17 @@
+.noAuthHeader {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 48px;
+    width: 100%;
+    background-color: #FAFAFA;
+}
+
+
+.noAuthHeader>a {
+    margin-left: 20px;
+    font-size: 18px;
+    text-decoration: none;
+
+}

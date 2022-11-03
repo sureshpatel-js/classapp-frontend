@@ -1,0 +1,13 @@
+.signupContainer {
+    border: 1px solid black;
+    width: 200px;
+    height: 220px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+.signupContainer > input {
+    margin-bottom: 5px;
+}
